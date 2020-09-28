@@ -10,7 +10,7 @@ nav {
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
-    background-color: crimson;
+    background-color: rgb(206, 206, 206);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -19,6 +19,8 @@ color: darkgrey;
 text-transform: uppercase;
 letter-spacing: 5px;
 font-size:  20px;
+left: 500px;
+
 }
 
 .navLinks{
@@ -32,9 +34,10 @@ font-size:  20px;
 
 }
 .navLinks a {
-    color: darkslategrey;
+    color: rgb(28, 56, 56);
     text-decoration: none;
-    
+    align-items: center;
+    text-transform: uppercase;
     letter-spacing: 4px;
     font-weight: bold;
     font-size: 14px;
